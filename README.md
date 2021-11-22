@@ -1,2 +1,2 @@
-# NETCore
+# NET Core
 NET Core
